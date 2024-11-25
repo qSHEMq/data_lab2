@@ -1,0 +1,730 @@
+[
+    {
+        "name": "Паприка острая молотая",
+        "category": "Бакалея",
+        "average_price": 5550.125,
+        "max_price": 9759,
+        "min_price": 425,
+        "quantity": 7331
+    },
+    {
+        "name": "Рамбутан",
+        "category": "Фрукты",
+        "average_price": 3980.0,
+        "max_price": 9936,
+        "min_price": 627,
+        "quantity": 2476
+    },
+    {
+        "name": "Инжир",
+        "category": "Фрукты",
+        "average_price": 5019.333333333333,
+        "max_price": 9898,
+        "min_price": 366,
+        "quantity": 11826
+    },
+    {
+        "name": "Простокваша",
+        "category": "Молочные продукты",
+        "average_price": 5016.176470588235,
+        "max_price": 9632,
+        "min_price": 565,
+        "quantity": 10469
+    },
+    {
+        "name": "Стаканы",
+        "category": "Товары для дома",
+        "average_price": 4264.142857142857,
+        "max_price": 9768,
+        "min_price": 1355,
+        "quantity": 6651
+    },
+    {
+        "name": "Спаржа",
+        "category": "Овощи",
+        "average_price": 4683.307692307692,
+        "max_price": 9809,
+        "min_price": 369,
+        "quantity": 15912
+    },
+    {
+        "name": "Каша из сорго",
+        "category": "Бакалея",
+        "average_price": 5153.1,
+        "max_price": 9725,
+        "min_price": 215,
+        "quantity": 5418
+    },
+    {
+        "name": "Яблоко",
+        "category": "Фрукты",
+        "average_price": 5818.75,
+        "max_price": 9919,
+        "min_price": 1427,
+        "quantity": 6746
+    },
+    {
+        "name": "Кумыс",
+        "category": "Напитки",
+        "average_price": 5005.133333333333,
+        "max_price": 9428,
+        "min_price": 570,
+        "quantity": 8280
+    },
+    {
+        "name": "Каша из дробленого кускуса",
+        "category": "Бакалея",
+        "average_price": 5674.666666666667,
+        "max_price": 8012,
+        "min_price": 2645,
+        "quantity": 4072
+    },
+    {
+        "name": "Сливки",
+        "category": "Молочные продукты",
+        "average_price": 6432.0,
+        "max_price": 8818,
+        "min_price": 1984,
+        "quantity": 2683
+    },
+    {
+        "name": "Авокадо",
+        "category": "Фрукты",
+        "average_price": 6130.875,
+        "max_price": 9914,
+        "min_price": 161,
+        "quantity": 7853
+    },
+    {
+        "name": "Российский сыр",
+        "category": "Молочные продукты",
+        "average_price": 5496.5,
+        "max_price": 8629,
+        "min_price": 448,
+        "quantity": 4980
+    },
+    {
+        "name": "Ветчина",
+        "category": "Мясо",
+        "average_price": 5144.571428571428,
+        "max_price": 9290,
+        "min_price": 304,
+        "quantity": 3348
+    },
+    {
+        "name": "Огурец",
+        "category": "Овощи",
+        "average_price": 4762.95652173913,
+        "max_price": 8713,
+        "min_price": 526,
+        "quantity": 13489
+    },
+    {
+        "name": "Адыгейский сыр",
+        "category": "Молочные продукты",
+        "average_price": 4437.2,
+        "max_price": 9895,
+        "min_price": 344,
+        "quantity": 6886
+    },
+    {
+        "name": "Пакеты для Всемирного дня здоровья",
+        "category": "Товары для дома",
+        "average_price": 4626.25,
+        "max_price": 8528,
+        "min_price": 1630,
+        "quantity": 4500
+    },
+    {
+        "name": "Окра",
+        "category": "Овощи",
+        "average_price": 4892.448275862069,
+        "max_price": 9373,
+        "min_price": 133,
+        "quantity": 16571
+    },
+    {
+        "name": "Пунш фруктовый",
+        "category": "Напитки",
+        "average_price": 5977.4,
+        "max_price": 9376,
+        "min_price": 1094,
+        "quantity": 6262
+    },
+    {
+        "name": "Пакеты для Дня отца",
+        "category": "Товары для дома",
+        "average_price": 5830.875,
+        "max_price": 8669,
+        "min_price": 600,
+        "quantity": 4478
+    },
+    {
+        "name": "Салфетки влажные",
+        "category": "Товары для дома",
+        "average_price": 5582.692307692308,
+        "max_price": 9405,
+        "min_price": 408,
+        "quantity": 7946
+    },
+    {
+        "name": "Кабанятина",
+        "category": "Мясо",
+        "average_price": 4574.384615384615,
+        "max_price": 9865,
+        "min_price": 641,
+        "quantity": 6085
+    },
+    {
+        "name": "Мультиварка",
+        "category": "Товары для дома",
+        "average_price": 4284.0,
+        "max_price": 9278,
+        "min_price": 231,
+        "quantity": 9106
+    },
+    {
+        "name": "Айран",
+        "category": "Напитки",
+        "average_price": 6354.8125,
+        "max_price": 9731,
+        "min_price": 894,
+        "quantity": 7973
+    },
+    {
+        "name": "Кефир",
+        "category": "Молочные продукты",
+        "average_price": 4360.105263157895,
+        "max_price": 9497,
+        "min_price": 680,
+        "quantity": 10588
+    },
+    {
+        "name": "Хабаровская",
+        "category": "Напитки",
+        "average_price": 5721.176470588235,
+        "max_price": 9543,
+        "min_price": 143,
+        "quantity": 7864
+    },
+    {
+        "name": "Батат",
+        "category": "Овощи",
+        "average_price": 4689.0,
+        "max_price": 9942,
+        "min_price": 300,
+        "quantity": 18290
+    },
+    {
+        "name": "Безалкогольный мохито",
+        "category": "Напитки",
+        "average_price": 5216.6875,
+        "max_price": 9790,
+        "min_price": 814,
+        "quantity": 6951
+    },
+    {
+        "name": "Пельмени",
+        "category": "Мясо",
+        "average_price": 6491.4375,
+        "max_price": 9934,
+        "min_price": 2263,
+        "quantity": 8890
+    },
+    {
+        "name": "Ямс",
+        "category": "Овощи",
+        "average_price": 7780.2,
+        "max_price": 9666,
+        "min_price": 1686,
+        "quantity": 1637
+    },
+    {
+        "name": "Укроп",
+        "category": "Овощи",
+        "average_price": 5120.5,
+        "max_price": 8961,
+        "min_price": 1128,
+        "quantity": 5159
+    },
+    {
+        "name": "Масло оливковое",
+        "category": "Бакалея",
+        "average_price": 4512.5,
+        "max_price": 9160,
+        "min_price": 616,
+        "quantity": 7267
+    },
+    {
+        "name": "Краснодарская",
+        "category": "Напитки",
+        "average_price": 4922.214285714285,
+        "max_price": 9665,
+        "min_price": 601,
+        "quantity": 7579
+    },
+    {
+        "name": "Свалява",
+        "category": "Напитки",
+        "average_price": 5206.368421052632,
+        "max_price": 9352,
+        "min_price": 444,
+        "quantity": 8126
+    },
+    {
+        "name": "Ливерная колбаса",
+        "category": "Мясо",
+        "average_price": 5310.25,
+        "max_price": 9389,
+        "min_price": 1185,
+        "quantity": 3681
+    },
+    {
+        "name": "Подставки под горячие блюда",
+        "category": "Товары для дома",
+        "average_price": 5971.8,
+        "max_price": 9282,
+        "min_price": 307,
+        "quantity": 8582
+    },
+    {
+        "name": "Ведро для мытья полов",
+        "category": "Товары для дома",
+        "average_price": 5740.75,
+        "max_price": 9995,
+        "min_price": 460,
+        "quantity": 8226
+    },
+    {
+        "name": "Тушенка",
+        "category": "Мясо",
+        "average_price": 4777.631578947368,
+        "max_price": 9804,
+        "min_price": 313,
+        "quantity": 9462
+    },
+    {
+        "name": "Лимон",
+        "category": "Фрукты",
+        "average_price": 6289.272727272727,
+        "max_price": 9750,
+        "min_price": 244,
+        "quantity": 4459
+    },
+    {
+        "name": "Геркулес",
+        "category": "Бакалея",
+        "average_price": 4302.0,
+        "max_price": 7543,
+        "min_price": 107,
+        "quantity": 4257
+    },
+    {
+        "name": "Горох",
+        "category": "Овощи",
+        "average_price": 4347.571428571428,
+        "max_price": 6806,
+        "min_price": 1960,
+        "quantity": 4034
+    },
+    {
+        "name": "Черешня",
+        "category": "Фрукты",
+        "average_price": 5929.857142857143,
+        "max_price": 9452,
+        "min_price": 356,
+        "quantity": 3977
+    },
+    {
+        "name": "Пакеты для инструментов",
+        "category": "Товары для дома",
+        "average_price": 4713.277777777777,
+        "max_price": 9487,
+        "min_price": 390,
+        "quantity": 10914
+    },
+    {
+        "name": "Нафтуся",
+        "category": "Напитки",
+        "average_price": 5294.8,
+        "max_price": 9782,
+        "min_price": 667,
+        "quantity": 9593
+    },
+    {
+        "name": "Пакеты для барбекю",
+        "category": "Товары для дома",
+        "average_price": 5129.909090909091,
+        "max_price": 9901,
+        "min_price": 1390,
+        "quantity": 4181
+    },
+    {
+        "name": "Пакеты для Дня влюбленных",
+        "category": "Товары для дома",
+        "average_price": 5274.636363636364,
+        "max_price": 9499,
+        "min_price": 2701,
+        "quantity": 7535
+    },
+    {
+        "name": "Зира молотая",
+        "category": "Бакалея",
+        "average_price": 6384.35,
+        "max_price": 9926,
+        "min_price": 865,
+        "quantity": 10359
+    },
+    {
+        "name": "Хамон",
+        "category": "Мясо",
+        "average_price": 4877.875,
+        "max_price": 9406,
+        "min_price": 900,
+        "quantity": 3246
+    },
+    {
+        "name": "Верблюжье молоко",
+        "category": "Молочные продукты",
+        "average_price": 4554.111111111111,
+        "max_price": 9776,
+        "min_price": 357,
+        "quantity": 4373
+    },
+    {
+        "name": "Сельдерей",
+        "category": "Овощи",
+        "average_price": 3268.5,
+        "max_price": 7376,
+        "min_price": 1388,
+        "quantity": 2008
+    },
+    {
+        "name": "Освежитель воздуха",
+        "category": "Товары для дома",
+        "average_price": 3443.0,
+        "max_price": 8068,
+        "min_price": 703,
+        "quantity": 2924
+    },
+    {
+        "name": "Консервы мясные",
+        "category": "Мясо",
+        "average_price": 4609.6875,
+        "max_price": 8796,
+        "min_price": 808,
+        "quantity": 7496
+    },
+    {
+        "name": "Мандарин",
+        "category": "Фрукты",
+        "average_price": 5033.466666666666,
+        "max_price": 9106,
+        "min_price": 890,
+        "quantity": 6580
+    },
+    {
+        "name": "Саратовская",
+        "category": "Напитки",
+        "average_price": 2965.2,
+        "max_price": 8572,
+        "min_price": 664,
+        "quantity": 2568
+    },
+    {
+        "name": "Ромштекс",
+        "category": "Мясо",
+        "average_price": 5894.0,
+        "max_price": 8681,
+        "min_price": 764,
+        "quantity": 5116
+    },
+    {
+        "name": "Каша из проса",
+        "category": "Бакалея",
+        "average_price": 3760.0,
+        "max_price": 7331,
+        "min_price": 276,
+        "quantity": 2919
+    },
+    {
+        "name": "Пакеты для Хэллоуина",
+        "category": "Товары для дома",
+        "average_price": 5030.818181818182,
+        "max_price": 8366,
+        "min_price": 337,
+        "quantity": 5507
+    },
+    {
+        "name": "Открывалка для бутылок",
+        "category": "Товары для дома",
+        "average_price": 4283.583333333333,
+        "max_price": 8735,
+        "min_price": 218,
+        "quantity": 6123
+    },
+    {
+        "name": "Карамбола",
+        "category": "Фрукты",
+        "average_price": 5258.5,
+        "max_price": 8578,
+        "min_price": 1743,
+        "quantity": 4951
+    },
+    {
+        "name": "Конина",
+        "category": "Мясо",
+        "average_price": 4866.0,
+        "max_price": 9983,
+        "min_price": 655,
+        "quantity": 3636
+    },
+    {
+        "name": "Шелковица",
+        "category": "Фрукты",
+        "average_price": 3837.0,
+        "max_price": 9771,
+        "min_price": 164,
+        "quantity": 3626
+    },
+    {
+        "name": "Чай черный",
+        "category": "Бакалея",
+        "average_price": 5323.2307692307695,
+        "max_price": 9799,
+        "min_price": 728,
+        "quantity": 6113
+    },
+    {
+        "name": "Роллы с мясом",
+        "category": "Мясо",
+        "average_price": 4945.142857142857,
+        "max_price": 9705,
+        "min_price": 520,
+        "quantity": 2779
+    },
+    {
+        "name": "Виноград",
+        "category": "Фрукты",
+        "average_price": 4765.5,
+        "max_price": 9433,
+        "min_price": 1055,
+        "quantity": 5564
+    },
+    {
+        "name": "Гамбургеры",
+        "category": "Мясо",
+        "average_price": 3438.1111111111113,
+        "max_price": 9297,
+        "min_price": 435,
+        "quantity": 4334
+    },
+    {
+        "name": "Рязанская",
+        "category": "Напитки",
+        "average_price": 4008.2,
+        "max_price": 6693,
+        "min_price": 1903,
+        "quantity": 1814
+    },
+    {
+        "name": "Каймак",
+        "category": "Молочные продукты",
+        "average_price": 4161.928571428572,
+        "max_price": 9882,
+        "min_price": 158,
+        "quantity": 8864
+    },
+    {
+        "name": "Катык",
+        "category": "Молочные продукты",
+        "average_price": 6272.461538461538,
+        "max_price": 9194,
+        "min_price": 1593,
+        "quantity": 6568
+    },
+    {
+        "name": "Гель после бритья",
+        "category": "Товары для дома",
+        "average_price": 5534.375,
+        "max_price": 9322,
+        "min_price": 261,
+        "quantity": 8366
+    },
+    {
+        "name": "Пакеты для документов",
+        "category": "Товары для дома",
+        "average_price": 5011.285714285715,
+        "max_price": 9894,
+        "min_price": 559,
+        "quantity": 6076
+    },
+    {
+        "name": "Кровяная колбаса",
+        "category": "Мясо",
+        "average_price": 5232.588235294118,
+        "max_price": 9721,
+        "min_price": 209,
+        "quantity": 8094
+    },
+    {
+        "name": "Байкал",
+        "category": "Напитки",
+        "average_price": 4496.882352941177,
+        "max_price": 9290,
+        "min_price": 503,
+        "quantity": 10338
+    },
+    {
+        "name": "Портулак",
+        "category": "Овощи",
+        "average_price": 5569.5,
+        "max_price": 9926,
+        "min_price": 599,
+        "quantity": 6284
+    },
+    {
+        "name": "Специи (перец, куркума, зира)",
+        "category": "Бакалея",
+        "average_price": 3274.6,
+        "max_price": 5419,
+        "min_price": 402,
+        "quantity": 3121
+    },
+    {
+        "name": "Пакеты для уборки",
+        "category": "Товары для дома",
+        "average_price": 5152.0,
+        "max_price": 9941,
+        "min_price": 201,
+        "quantity": 7820
+    },
+    {
+        "name": "Пакеты для хранения одежды",
+        "category": "Товары для дома",
+        "average_price": 4859.818181818182,
+        "max_price": 9620,
+        "min_price": 1305,
+        "quantity": 5385
+    },
+    {
+        "name": "Миксер",
+        "category": "Товары для дома",
+        "average_price": 5112.666666666667,
+        "max_price": 9390,
+        "min_price": 307,
+        "quantity": 3417
+    },
+    {
+        "name": "Пакеты для Дня Земли",
+        "category": "Товары для дома",
+        "average_price": 5108.388888888889,
+        "max_price": 9547,
+        "min_price": 570,
+        "quantity": 9308
+    },
+    {
+        "name": "Чеснок",
+        "category": "Овощи",
+        "average_price": 3940.909090909091,
+        "max_price": 9490,
+        "min_price": 127,
+        "quantity": 5889
+    },
+    {
+        "name": "Малина",
+        "category": "Фрукты",
+        "average_price": 5621.764705882353,
+        "max_price": 9713,
+        "min_price": 1939,
+        "quantity": 9593
+    },
+    {
+        "name": "Кольраби",
+        "category": "Овощи",
+        "average_price": 4488.75,
+        "max_price": 7686,
+        "min_price": 363,
+        "quantity": 3636
+    },
+    {
+        "name": "Блюдца",
+        "category": "Товары для дома",
+        "average_price": 3949.6923076923076,
+        "max_price": 8984,
+        "min_price": 691,
+        "quantity": 5563
+    },
+    {
+        "name": "Уксус",
+        "category": "Бакалея",
+        "average_price": 4601.0,
+        "max_price": 9524,
+        "min_price": 770,
+        "quantity": 3043
+    },
+    {
+        "name": "Шашлык",
+        "category": "Мясо",
+        "average_price": 5212.35,
+        "max_price": 9640,
+        "min_price": 795,
+        "quantity": 9655
+    },
+    {
+        "name": "Йогурт",
+        "category": "Молочные продукты",
+        "average_price": 4143.6,
+        "max_price": 7938,
+        "min_price": 1462,
+        "quantity": 2220
+    },
+    {
+        "name": "Пакеты для Всемирного дня окружающей среды",
+        "category": "Товары для дома",
+        "average_price": 4580.4375,
+        "max_price": 9616,
+        "min_price": 607,
+        "quantity": 8376
+    },
+    {
+        "name": "Каша из кускуса",
+        "category": "Бакалея",
+        "average_price": 5153.714285714285,
+        "max_price": 8309,
+        "min_price": 611,
+        "quantity": 4761
+    },
+    {
+        "name": "Кесадилья с мясом",
+        "category": "Мясо",
+        "average_price": 4273.3,
+        "max_price": 8752,
+        "min_price": 810,
+        "quantity": 6415
+    },
+    {
+        "name": "Эндивий",
+        "category": "Овощи",
+        "average_price": 4309.0,
+        "max_price": 8753,
+        "min_price": 1112,
+        "quantity": 6715
+    },
+    {
+        "name": "Кондиционер для белья",
+        "category": "Товары для дома",
+        "average_price": 6808.1,
+        "max_price": 9871,
+        "min_price": 549,
+        "quantity": 4093
+    },
+    {
+        "name": "Пакеты для бассейна",
+        "category": "Товары для дома",
+        "average_price": 4730.25,
+        "max_price": 9750,
+        "min_price": 425,
+        "quantity": 7660
+    }
+]
